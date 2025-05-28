@@ -1,5 +1,4 @@
-# TheArt-Chat
-# Multi-LLM Chat App
+# TheArt-Chat/Multi-LLM Chat App
 ## Overview
 
 This Streamlit application provides a unified interface for interacting with various Large Language Models (LLMs). Enter your API key for a supported model, select the model, and start chatting. The goal is to offer a seamless experience for experimenting and working with different LLMs in one place.
