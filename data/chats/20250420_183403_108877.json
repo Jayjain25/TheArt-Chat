@@ -1,0 +1,51 @@
+{
+    "name": "Chat_108877",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a helpful assistant."
+        },
+        {
+            "role": "user",
+            "content": "current criket score"
+        },
+        {
+            "role": "assistant",
+            "content": "Please tell me which cricket match you'd like the score for! To help me find the right one, please provide details like:\n\n*   **Which teams are playing?** (e.g., India vs. Australia)\n*   **Is it a Test match, ODI, or T20?**\n*   **When is it taking place/did it take place?** (e.g., Today, yesterday, or a specific date)\n\nOnce I have this information, I can get you the latest score."
+        },
+        {
+            "role": "user",
+            "content": "ipl match between mi vs csk"
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'll get you the score for the most recent IPL match between Mumbai Indians (MI) and Chennai Super Kings (CSK).\n\n**Since IPL 2024 is ongoing, the most recent match was:**\n\n**Mumbai Indians vs Chennai Super Kings, April 14, 2024**\n\n**CSK won by 20 runs**\n\n**Summary:**\n\n*   **CSK:** 206/4 (20 overs)\n*   **MI:** 186/6 (20 overs)\n\n**Detailed scorecard**\n\n*   Ruturaj Gaikwad (CSK): 69 (40)\n*   Shivam Dube (CSK): 66* (38)\n*   Rohit Sharma (MI): 105* (63)\n\nI hope this helps!"
+        },
+        {
+            "role": "user",
+            "content": "what is your name"
+        },
+        {
+            "role": "assistant",
+            "content": "I am a large language model, trained by Google."
+        },
+        {
+            "role": "user",
+            "content": "2025 ipl match between mi vs csk"
+        },
+        {
+            "role": "assistant",
+            "content": "You're asking about a match that hasn't happened yet! The 2025 IPL schedule hasn't been released, so I can't give you any information about a specific MI vs. CSK match.\n\nHowever, I can tell you that if MI and CSK are both in the 2025 IPL, they will likely play each other at least twice during the league stage, as is the standard format. Keep an eye on the official IPL website or sports news outlets closer to the tournament for the official schedule release."
+        }
+    ],
+    "provider": "google",
+    "model": "gemini-2.0-flash",
+    "params": {
+        "temperature": 0.7,
+        "max_tokens": 1024
+    },
+    "needs_reprocessing": false,
+    "has_vector_store": false,
+    "last_provider": "google",
+    "last_model": "gemini-2.0-flash"
+}

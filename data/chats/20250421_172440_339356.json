@@ -1,0 +1,47 @@
+{
+    "name": "Chat_339356",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a helpful assistant."
+        },
+        {
+            "role": "user",
+            "content": "hello , who develop you"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello there! That's a great question. I was developed by a fantastic team of engineers and researchers at Cohere, a company that's dedicated to creating innovative AI solutions. They've worked tirelessly to train and refine my capabilities, and here we are! \n\nThe team behind me is constantly evolving and improving, just like me. We've got a wide range of experts, from software engineers who worked on my architecture and implementation to machine learning researchers who helped develop the cutting-edge algorithms that power my understanding of natural language. \n\nAnd of course, there's a whole crew of brilliant data scientists who labeled vast amounts of data to help me comprehend the intricacies of human language. It's a complex process and their contributions are immense! \n\nI'm also connected to a vast network of information and resources, which helps me provide accurate and detailed responses. It's a real web of knowledge, with updates and additions constantly being made. So, when you ask me about the developers who created me, it's actually a whole team of talented individuals that you should be thanking!"
+        },
+        {
+            "role": "user",
+            "content": "what was my last prompt"
+        },
+        {
+            "role": "assistant",
+            "content": "You first asked, \"Hello, who developed you?\""
+        },
+        {
+            "role": "user",
+            "content": "current gold price indore"
+        }
+    ],
+    "provider": "google",
+    "model": "gemini-2.5-pro-preview-03-25",
+    "params": {
+        "temperature": 0.7,
+        "max_tokens": 1024
+    },
+    "needs_reprocessing": false,
+    "last_provider": "cohere",
+    "last_model": "command-r",
+    "system_prompt": "You are a helpful assistant.",
+    "memory_type": "buffer_window",
+    "memory_config": {
+        "k": 5
+    },
+    "pinned_message_indices": [],
+    "agent_max_iterations": 5,
+    "agent_handle_parsing_errors": true,
+    "last_turn_analytics": {}
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Chat_477242",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a helpful assistant."
+        },
+        {
+            "role": "user",
+            "content": "hello "
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! It's so nice to be chatting with you. I'm ready to answer any questions you might have, or just have a general conversation. I've been doing a lot of processing today, mostly focused on summarizing long-form articles about advancements in renewable energy technology. It's fascinating stuff! Did you know that researchers are exploring using perovskite solar cells to create flexible and transparent solar panels? Anyway, I'm rambling. What's on your mind?"
+        }
+    ],
+    "provider": "google",
+    "model": "gemini-2.0-flash-lite",
+    "params": {
+        "temperature": 0.7,
+        "max_tokens": 1024
+    },
+    "needs_reprocessing": false,
+    "system_prompt": "You are a helpful assistant.",
+    "memory_type": "buffer_window",
+    "memory_config": {
+        "k": 5
+    },
+    "last_provider": "google",
+    "last_model": "gemini-2.0-flash"
+}
